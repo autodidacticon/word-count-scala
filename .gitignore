@@ -1,2 +1,17 @@
 *.class
 *.log
+.idea
+target
+checkpoint
+derby.*
+metastore_db
+publish.jar
+*.sc
+atlas.iml
+.build-results/
+deploykey_rsa
+.DS_Store
+
+build-output/
+
+docker/zeppelin-proxy/*.pem
